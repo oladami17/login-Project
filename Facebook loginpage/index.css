@@ -1,0 +1,77 @@
+
+#container{
+    background-color: #eff1f4;
+}
+
+#main{
+    
+    width: 60%;
+    padding: 100px;
+    margin: auto;
+
+}
+#left{
+    width: 45%;
+    display: inline-block;
+    vertical-align: top;
+}
+#right{
+    width: 35%;
+    display: inline-block;
+    text-align: center;
+    margin-left: 30px;
+}
+#left p{
+    font-size: 25px;
+}
+input{
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 20px 0px 15px 5px;
+    border: 0;
+}
+button{
+    width: 100%;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    padding: 15px 40px;
+    border: 0; 
+}
+#p{
+    font-size: 12px;
+}
+input {
+
+    border: 1px solid #dddfe2;
+}
+#login{
+    background-color: #166fe5;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+#card{
+    background-color: white;
+    padding: 15px;
+    border-radius: 4px;
+    text-align: center;
+}
+#card p{
+    text-align: center;
+}
+#card p a{
+    color: #166fe5;
+    text-decoration: none;
+}
+#account{
+    background-color: #42b72a;
+    width: auto;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    margin: 0 auto;
+}
+#footer{
+    text-align: center;
+}
